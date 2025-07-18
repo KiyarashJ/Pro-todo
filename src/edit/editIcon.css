@@ -1,0 +1,10 @@
+.editIcon {
+    width: 25px;
+    height: 25px;
+    transition: all 0.1s ease-in;
+}
+
+.editIcon:hover {
+    cursor: pointer;
+    scale: 1.2;
+}
